@@ -10,7 +10,7 @@
 + @socket.io/admin-ui
 + https://admin.socket.io
 
-you can use this app by open the `http://localhost:5500/client/?` in your web by make sure that the server is working.
+you can use this app by open the `http://localhost:8080/` in your web by make sure that the server is working.
 
 ## UML
 ![UML](./img/uml.jpg)
